@@ -1,0 +1,14 @@
+/home/christian/Documentos/dotnet/CsBases/bin/Debug/net8.0/CsBases
+/home/christian/Documentos/dotnet/CsBases/bin/Debug/net8.0/CsBases.deps.json
+/home/christian/Documentos/dotnet/CsBases/bin/Debug/net8.0/CsBases.runtimeconfig.json
+/home/christian/Documentos/dotnet/CsBases/bin/Debug/net8.0/CsBases.dll
+/home/christian/Documentos/dotnet/CsBases/bin/Debug/net8.0/CsBases.pdb
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.AssemblyInfoInputs.cache
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.AssemblyInfo.cs
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.csproj.CoreCompileInputs.cache
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.dll
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/refint/CsBases.dll
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.pdb
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/CsBases.genruntimeconfig.cache
+/home/christian/Documentos/dotnet/CsBases/obj/Debug/net8.0/ref/CsBases.dll
