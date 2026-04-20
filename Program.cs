@@ -74,6 +74,8 @@ namespace Prueba
                 }
 
             } while (decision != (int)Menu.Salir);
+
+            Console.WriteLine("Cambio.");
         }
     }
 }
